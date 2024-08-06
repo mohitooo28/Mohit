@@ -12,7 +12,7 @@
  
  🔭 Currently pursuing **B.E in Information Technology**
  
- 🌱 I’m currently learning **MERN Stack** and some practicing **DSA Stuff**
+ 🌱 I’m currently learning **MERN Stack** and practicing some **DSA Stuff**
 
  </div>
  
