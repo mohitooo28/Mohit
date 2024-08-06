@@ -35,11 +35,14 @@
 <br/>
 <div align="center">
     <!-- Frontend and Design -->
-    <img src="https://skillicons.dev/icons?i=html,css,react,flutter,bootstrap,tailwind,figma" /><br>
+    <!-- Goal: <img src="https://skillicons.dev/icons?i=html,css,react,flutter,bootstrap,tailwind,figma" /><br> -->
+    <img src="https://skillicons.dev/icons?i=html,css,flutter,figma" /><br>
     <!-- Backend and Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,fastapi,aws,javascript,typescript,python,c,cpp,java,dart" /><br>
+    <!-- Goal: <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,fastapi,aws,javascript,typescript,python,c,cpp,java,dart" /><br> -->
+    <img src="https://skillicons.dev/icons?i=firebase,fastapi,javascript,python,c,cpp,java,dart" /><br>
     <!-- Tools and IDEs -->
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,blender,nextjs" /><br>
+    <!-- Goal: <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,blender,nextjs" /><br> -->
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,blender" /><br>
 </div>
 
 <br/>
